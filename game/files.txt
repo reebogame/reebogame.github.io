@@ -1,0 +1,2 @@
+All game files will be stored here
+Such as the demo
